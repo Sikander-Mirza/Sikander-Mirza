@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sikander Mirza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/567523990538356835/"
+img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/567523990538356835/](https://www.icegif.com/roronoa-zoro-63/)"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikander-mirza" alt="sikander-mirza" /></a> </p>
 
 - 🔭 I’m currently working at **SoftMark Solutions**
