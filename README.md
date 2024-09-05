@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
 <h1 align="center">Hi 👋, I'm Sikander Mirza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2023/08/21/3724229.gif" />
