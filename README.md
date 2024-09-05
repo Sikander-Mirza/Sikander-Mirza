@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **SoftMark Solutions**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Software Testing**
 
 - 📫 How to reach me **sikandersunny2017@gmail.com**
 
