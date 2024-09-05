@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sikander Mirza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2023/08/21/3724229.gif"
+<img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2023/08/21/3724229.gif" />
+
 
 - 🔭 I’m currently working at **SoftMark Solutions**
 
